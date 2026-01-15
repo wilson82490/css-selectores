@@ -1,0 +1,21 @@
+h1{
+  color: red;
+}
+
+p{
+    color: blue;
+}
+
+/*etiqueta de clase*/
+.color-verde {
+
+    color: green;
+
+    background-color: lightgrey;
+}
+
+/*etiqueta de "id"*/
+#primer-parrafo{
+    
+    color: purple;
+}
