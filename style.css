@@ -1,21 +1,21 @@
-h1{
-  color: red;
-}
 
-p{
-    color: blue;
-}
 
 /*etiqueta de clase*/
-.color-verde {
+.color-rojo{
 
-    color: green;
+    color: red;
 
-    background-color: lightgrey;
+    
 }
 
 /*etiqueta de "id"*/
-#primer-parrafo{
-    
+#subtitulo-de-la-seccion{
+
     color: purple;
+}
+
+
+#color-limon{
+
+    color: yellow;
 }
